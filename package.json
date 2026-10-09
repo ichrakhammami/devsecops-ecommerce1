@@ -1,0 +1,12 @@
+{
+  "name": "devsecops-ecommerce",
+  "version": "1.0.0",
+  "description": "Cas pratique DevSecOps - Test de vulnérabilité",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.0.0"
+  }
+}
